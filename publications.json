@@ -1,0 +1,578 @@
+[
+  {
+    "number": 35,
+    "authors": "Changhui Tan, Liutang Xue, and Zhilong Xue",
+    "title": "A revisit of patch solutions for the 2D Loglog-Euler type equation.",
+    "journal": "",
+    "arxiv": [
+      "https://arxiv.org/abs/2510.18759"
+    ],
+    "journal_url": "",
+    "pdfs": [
+      {
+        "filename": "TXX-LoglogEuler-patch.pdf",
+        "original": "http://math0.bnu.edu.cn/~xuelt/TXX-LoglogEuler-patch.pdf",
+        "remote": "https://pan.baidu.com/s/1wldKh1YFgEZiZZWWjPTGGQ?pwd=etuu",
+        "local": "papers/TXX-LoglogEuler-patch.pdf"
+      }
+    ]
+  },
+  {
+    "number": 34,
+    "authors": "Qianyun Miao, Changhui Tan, Liutang Xue, and Zhilong Xue",
+    "title": "Local regularity and finite-time singularity for a class of generalized SQG patches on the half-plane.",
+    "journal": "",
+    "arxiv": [
+      "https://arxiv.org/abs/2410.19273"
+    ],
+    "journal_url": "",
+    "pdfs": [
+      {
+        "filename": "MTXX-gSQGpatch.pdf",
+        "original": "http://math0.bnu.edu.cn/~xuelt/MTXX-gSQGpatch.pdf",
+        "remote": "https://pan.baidu.com/s/1hnu49V_mm9XrSbpN8JyUPQ?pwd=kwmg",
+        "local": "papers/MTXX-gSQGpatch.pdf"
+      }
+    ]
+  },
+  {
+    "number": 33,
+    "authors": "Taoufik Hmidi, Liutang Xue, and Zhilong Xue",
+    "title": "Doubly connected V-states in geophysical models: a general framework.",
+    "journal": "Calc. Var. Partial Differential Equations, 65 (2026), Art. No. 137.",
+    "arxiv": [
+      "https://arxiv.org/abs/2504.08143"
+    ],
+    "journal_url": "https://link.springer.com/article/10.1007/s00526-026-03295-4",
+    "pdfs": [
+      {
+        "filename": "HXX-doubVstates.pdf",
+        "original": "http://math0.bnu.edu.cn/~xuelt/HXX-doubVstates.pdf",
+        "remote": "https://pan.baidu.com/s/12FlnrrUUT7Led1X9IX_FBg?pwd=prma",
+        "local": "papers/HXX-doubVstates.pdf"
+      }
+    ]
+  },
+  {
+    "number": 32,
+    "authors": "Taoufik Hmidi, Liutang Xue, and Zhilong Xue",
+    "title": "Unified theory on V-states structures for active scalar equations.",
+    "journal": "Adv. Math., 486 (2026), Art. No. 110750.",
+    "arxiv": [
+      "https://arxiv.org/abs/2312.02874"
+    ],
+    "journal_url": "https://www.sciencedirect.com/science/article/pii/S0001870825006486",
+    "pdfs": [
+      {
+        "filename": "HXX-Vstate-gene.pdf",
+        "original": "http://math0.bnu.edu.cn/~xuelt/HXX-Vstate-gene.pdf",
+        "remote": "https://pan.baidu.com/s/1iHgNxxrV-zfpjfuewdBeAw?pwd=8ahs",
+        "local": "papers/HXX-Vstate-gene.pdf"
+      }
+    ]
+  },
+  {
+    "number": 31,
+    "authors": "Omar Lazar, Liutang Xue, and Jiakun Yang",
+    "title": "Global regularity and infinite Prandtl number limit of temperature patches for the 2D Boussinesq system.",
+    "journal": "Mathematische Annalen, 392 (2025), 1375–1446.",
+    "arxiv": [],
+    "journal_url": "https://link.springer.com/article/10.1007/s00208-025-03114-9",
+    "pdfs": [
+      {
+        "filename": "LXY-fracBouss-patch.pdf",
+        "original": "http://math0.bnu.edu.cn/~xuelt/LXY-fracBouss-patch.pdf",
+        "remote": "https://pan.baidu.com/s/1k3vUQHdULImewO58Kpuj1Q?pwd=7785",
+        "local": "papers/LXY-fracBouss-patch.pdf"
+      }
+    ]
+  },
+  {
+    "number": 30,
+    "authors": "Yatao Li, Qianyun Miao, Changhui Tan, and Liutang Xue",
+    "title": "Global well-posedness and refined regularity criterion for the uni-directional Euler-alignment system.",
+    "journal": "International Mathematics Research Notices, 2024 (2024), no. 23, 14393–14422.",
+    "arxiv": [],
+    "journal_url": "https://academic.oup.com/imrn/advance-article/doi/10.1093/imrn/rnae246/7855356",
+    "pdfs": [
+      {
+        "filename": "LMTX-uniEAS.pdf",
+        "original": "http://math0.bnu.edu.cn/~xuelt/LMTX-uniEAS.pdf",
+        "remote": "https://pan.baidu.com/s/15Ts2nufMdr47bV8-qA3-7g?pwd=3usg",
+        "local": "papers/LMTX-uniEAS.pdf"
+      }
+    ]
+  },
+  {
+    "number": 29,
+    "authors": "Xiang Bai, Changhui Tan, and Liutang Xue",
+    "title": "Global well-posedness and asymptotic behavior for the Euler-alignment system with pressure.",
+    "journal": "J. Differential Equations, 407 (2024), 269–310.",
+    "arxiv": [],
+    "journal_url": "https://www.sciencedirect.com/science/article/pii/S0022039624003929?via%3Dihub",
+    "pdfs": [
+      {
+        "filename": "BXX-EAS-press2.pdf",
+        "original": "http://math0.bnu.edu.cn/~xuelt/BXX-EAS-press2.pdf",
+        "remote": "https://pan.baidu.com/s/1vo3b0lhZ1RW7BHT2EZ0pKg?pwd=x5xm",
+        "local": "papers/BXX-EAS-press2.pdf"
+      }
+    ]
+  },
+  {
+    "number": 28,
+    "authors": "Xiang Bai, Qianyun Miao, Changhui Tan, and Liutang Xue",
+    "title": "Global well-posedness and asymptotic behavior in critical spaces for the compressible Euler system with velocity alignment.",
+    "journal": "Nonlinearity, 37 (2024), no. 2, paper no. 025007.",
+    "arxiv": [],
+    "journal_url": "https://iopscience.iop.org/article/10.1088/1361-6544/ad140b",
+    "pdfs": [
+      {
+        "filename": "BMTX-EAS-press.pdf",
+        "original": "http://math0.bnu.edu.cn/~xuelt/BMTX-EAS-press.pdf",
+        "remote": "https://pan.baidu.com/s/1lgmAUv8sb04rFiE0O1TgAw?pwd=mwpx",
+        "local": "papers/BMTX-EAS-press.pdf"
+      }
+    ]
+  },
+  {
+    "number": 27,
+    "authors": "Omar Lazar, Yatao Li, and Liutang Xue",
+    "title": "On the regularity of temperature fronts for the 3D viscous Boussinesq system.",
+    "journal": "Indiana Univ. Math. J., 73 (2024), no. 3, 1005–1060.",
+    "arxiv": [],
+    "journal_url": "https://www.iumj.indiana.edu/IUMJ/ISSUE/2024/3",
+    "pdfs": [
+      {
+        "filename": "LLX-3DBouss-patch.pdf",
+        "original": "http://math0.bnu.edu.cn/~xuelt/LLX-3DBouss-patch.pdf",
+        "remote": "https://pan.baidu.com/s/1dWOgoMpyAZrq-qDVxaFpiw?pwd=36ik",
+        "local": "papers/LLX-3DBouss-patch.pdf"
+      }
+    ]
+  },
+  {
+    "number": 26,
+    "authors": "Taoufik Hmidi, Liutang Xue, and Zhilong Xue",
+    "title": "Emergence of time periodic solutions for the generalized surface quasi-geostrophic equation in the disc.",
+    "journal": "Journal of Functional Analysis, 285 (2023), no. 10, Paper No. 110142.",
+    "arxiv": [],
+    "journal_url": "https://www.sciencedirect.com/science/article/pii/S0022123623002999?via%3Dihub",
+    "pdfs": [
+      {
+        "filename": "HXX-gSQG-Vstate.pdf",
+        "original": "http://math0.bnu.edu.cn/~xuelt/HXX-gSQG-Vstate.pdf",
+        "remote": "https://pan.baidu.com/s/1KsXYXsSwDXvVc0G3NREtAQ?pwd=71ij",
+        "local": "papers/HXX-gSQG-Vstate.pdf"
+      }
+    ]
+  },
+  {
+    "number": 25,
+    "authors": "Yatao Li, Qianyun Miao, and Liutang Xue",
+    "title": "Global well-posedness for 2D fractional inhomogeneous Navier-Stokes equations with rough density.",
+    "journal": "Nonlinearity 36 (2023), 3866–3908.",
+    "arxiv": [
+      "https://arxiv.org/abs/2111.12235"
+    ],
+    "journal_url": "https://iopscience.iop.org/article/10.1088/1361-6544/acda75",
+    "pdfs": [
+      {
+        "filename": "LMX-fracINS.pdf",
+        "original": "http://math0.bnu.edu.cn/~xuelt/LMX-fracINS.pdf",
+        "remote": "https://pan.baidu.com/s/154kkuP-m4uewB5-YbTp3Ig?pwd=s8iy",
+        "local": "papers/LMX-fracINS.pdf"
+      }
+    ]
+  },
+  {
+    "number": 24,
+    "authors": "Dongho Chae, Qianyun Miao, and Liutang Xue",
+    "title": "Global regularity of non-diffusive temperature fronts for the 2D viscous Boussinesq system.",
+    "journal": "SIAM J. Math. Anal. 54 (2022), no. 4, 4043–4103.",
+    "arxiv": [],
+    "journal_url": "https://epubs.siam.org/doi/10.1137/21M1457345",
+    "pdfs": [
+      {
+        "filename": "CMX-2DBouss-patch.pdf",
+        "original": "http://math0.bnu.edu.cn/~xuelt/CMX-2DBouss-patch.pdf",
+        "remote": "https://pan.baidu.com/s/1-JmWwQ8cX6_PS1n0OdMmxQ?pwd=c4xe",
+        "local": "papers/CMX-2DBouss-patch.pdf"
+      },
+      {
+        "filename": "Erratum-SIMA.pdf",
+        "original": "http://math0.bnu.edu.cn/~xuelt/Erratum-SIMA.pdf",
+        "remote": "https://pan.baidu.com/s/1JAyQFBnCqgMTanTPazVgBg?pwd=csg2",
+        "local": "papers/Erratum-SIMA.pdf"
+      }
+    ]
+  },
+  {
+    "number": 23,
+    "authors": "Piotr B. Mucha, and Liutang Xue",
+    "title": "Boussinesq system with measure forcing.",
+    "journal": "Mathematische Annalen, 382 (2022), 1901–1934.",
+    "arxiv": [],
+    "journal_url": "https://link.springer.com/article/10.1007/s00208-020-02084-4",
+    "pdfs": [
+      {
+        "filename": "MX-BoussEq-meas.pdf",
+        "original": "http://math0.bnu.edu.cn/~xuelt/MX-BoussEq-meas.pdf",
+        "remote": "https://pan.baidu.com/s/1a21SdPymwjxRW176YMSOgA?pwd=sype",
+        "local": "papers/MX-BoussEq-meas.pdf"
+      }
+    ]
+  },
+  {
+    "number": 22,
+    "authors": "Qianyun Miao, Changhui Tan, and Liutang Xue",
+    "title": "Global regularity for a 1D Euler-alignment system with misalignment.",
+    "journal": "Math. Mod. Meth. Appl. Sci., 31 (2021), no. 3, 473–524.",
+    "arxiv": [],
+    "journal_url": "https://www.worldscientific.com/doi/abs/10.1142/S021820252150010X",
+    "pdfs": [
+      {
+        "filename": "MTX-GR-1D-EAS.pdf",
+        "original": "http://math0.bnu.edu.cn/~xuelt/MTX-GR-1D-EAS.pdf",
+        "remote": "https://pan.baidu.com/s/1DoztckxKpsUETlPtkqZ7HA?pwd=nb2p",
+        "local": "papers/MTX-GR-1D-EAS.pdf"
+      }
+    ]
+  },
+  {
+    "number": 21,
+    "authors": "Qianyun Miao, and Liutang Xue",
+    "title": "Regularity and singularity results for the dissipative Whitham equation and related surface wave equations.",
+    "journal": "Commun. Math. Sci., 17 (2019), no. 8, 2141–2190.",
+    "arxiv": [],
+    "journal_url": "https://www.intlpress.com/site/pub/pages/journals/items/cms/content/vols/0017/0008/a004/index.php",
+    "pdfs": [
+      {
+        "filename": "MX-WhithamEq.pdf",
+        "original": "http://math0.bnu.edu.cn/~xuelt/MX-WhithamEq.pdf",
+        "remote": "https://pan.baidu.com/s/1eHChEEnpsLtaPWG9xmp0Lw?pwd=qa2x",
+        "local": "papers/MX-WhithamEq.pdf"
+      }
+    ]
+  },
+  {
+    "number": 20,
+    "authors": "Omar Lazar, and Liutang Xue",
+    "title": "Regularity results for a class of generalized surface quasi-geostrophic equations.",
+    "journal": "Journal de Mathématiques Pures et Appliquées, 130 (2019), 200–250.",
+    "arxiv": [],
+    "journal_url": "https://www.sciencedirect.com/science/article/pii/S0021782419300170",
+    "pdfs": [
+      {
+        "filename": "LX_gSQG-Regu.pdf",
+        "original": "http://math0.bnu.edu.cn/~xuelt/LX_gSQG-Regu.pdf",
+        "remote": "https://pan.baidu.com/s/1YF2tiURIcGKVRLTNZlFSdQ?pwd=3xzq",
+        "local": "papers/LX_gSQG-Regu.pdf"
+      }
+    ]
+  },
+  {
+    "number": 19,
+    "authors": "Piotr B. Mucha, Liutang Xue, and Xiaoxin Zheng",
+    "title": "Between homogeneous and inhomogeneous Navier-Stokes systems: the issue of stability.",
+    "journal": "J. Differential Equations, 267 (2019), Issue 1, 307–363.",
+    "arxiv": [],
+    "journal_url": "https://www.sciencedirect.com/science/article/pii/S0022039619300208?dgcid=author",
+    "pdfs": [
+      {
+        "filename": "MXZ_InhomNS.pdf",
+        "original": "http://math0.bnu.edu.cn/~xuelt/MXZ_InhomNS.pdf",
+        "remote": "https://pan.baidu.com/s/1cH4h5cWbE6s-urQeGU7vUw?pwd=s12v",
+        "local": "papers/MXZ_InhomNS.pdf"
+      }
+    ]
+  },
+  {
+    "number": 18,
+    "authors": "Changxing Miao, and Liutang Xue",
+    "title": "On the regularity issues of a class of drift-diffusion equations with nonlocal diffusion.",
+    "journal": "SIAM J. Math. Anal., 51 (2019), no. 4, 2927–2970.",
+    "arxiv": [],
+    "journal_url": "https://epubs.siam.org/doi/abs/10.1137/17M1158537",
+    "pdfs": [
+      {
+        "filename": "MX_reg-DD.pdf",
+        "original": "http://math0.bnu.edu.cn/~xuelt/MX_reg-DD.pdf",
+        "remote": "https://pan.baidu.com/s/1TZp4fQTyxQjbL4FqmHr6Yw?pwd=we41",
+        "local": "papers/MX_reg-DD.pdf"
+      }
+    ]
+  },
+  {
+    "number": 17,
+    "authors": "Qianyun Miao, and Liutang Xue",
+    "title": "On the Hölder regularity of the weak solution to a drift-diffusion equation with pressure.",
+    "journal": "Calc. Var. Partial Differential Equations, 57 (2018), no. 6, Art. 153, 33 pp.",
+    "arxiv": [],
+    "journal_url": "https://link.springer.com/article/10.1007%2Fs00526-018-1438-3",
+    "pdfs": [
+      {
+        "filename": "MX_DDeqRegu.pdf",
+        "original": "http://math0.bnu.edu.cn/~xuelt/MX_DDeqRegu.pdf",
+        "remote": "https://pan.baidu.com/s/1Pjo2P0HVN2bbQpQ5rWQ9-w?pwd=wwtu",
+        "local": "papers/MX_DDeqRegu.pdf"
+      }
+    ]
+  },
+  {
+    "number": 16,
+    "authors": "Liutang Xue, and Zhuan Ye",
+    "title": "On the differentiability issue of the drift-diffusion equation with nonlocal Lévy-type diffusion.",
+    "journal": "Pacific J. Mathematics 293 (2018), no. 2, 471–510",
+    "arxiv": [],
+    "journal_url": "https://msp.org/pjm/2018/293-2/p08.xhtml",
+    "pdfs": [
+      {
+        "filename": "XY_diff-DD.pdf",
+        "original": "http://math0.bnu.edu.cn/~xuelt/XY_diff-DD.pdf",
+        "remote": "https://pan.baidu.com/s/1aTpZ6VkjlxvegQ8r5wpb-w?pwd=impw",
+        "local": "papers/XY_diff-DD.pdf"
+      }
+    ]
+  },
+  {
+    "number": 15,
+    "authors": "Jiahong Wu, Xiaojing Xu, Liutang Xue, and Zhuan Ye",
+    "title": "Regularity results for the 2D Boussinesq equations with critical or supercritical dissipation.",
+    "journal": "Commun. Math. Sci. 14 (2016), no. 7, 1963–1997.",
+    "arxiv": [],
+    "journal_url": "https://www.intlpress.com/site/pub/pages/journals/items/cms/content/vols/0014/0007/a009/index.php",
+    "pdfs": [
+      {
+        "filename": "WXXY_Bouss.pdf",
+        "original": "http://math0.bnu.edu.cn/~xuelt/WXXY_Bouss.pdf",
+        "remote": "https://pan.baidu.com/s/1Q8MiDhQiadjMPQvanK-Rjg?pwd=byrq",
+        "local": "papers/WXXY_Bouss.pdf"
+      }
+    ]
+  },
+  {
+    "number": 14,
+    "authors": "Liutang Xue",
+    "title": "On the locally self-similar solution of the surface quasi-geostrophic equation with decaying or non-decaying profiles.",
+    "journal": "J. Differential Equations 261 (2016), no. 10, 5590–5608.",
+    "arxiv": [],
+    "journal_url": "http://www.sciencedirect.com/science/article/pii/S0022039616302170",
+    "pdfs": [
+      {
+        "filename": "X_SS-SQG.pdf",
+        "original": "http://math0.bnu.edu.cn/~xuelt/X_SS-SQG.pdf",
+        "remote": "https://pan.baidu.com/s/1WXCzBoMi6vTUsbJYjXhcWQ?pwd=77hd",
+        "local": "papers/X_SS-SQG.pdf"
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "authors": "Liutang Xue",
+    "title": "On the locally self-similar singular solutions for the incompressible Euler equations.",
+    "journal": "Dyn. Partial Differ. Equ. 12 (2015), no. 4, 321–342.",
+    "arxiv": [],
+    "journal_url": "http://www.intlpress.com/site/pub/pages/journals/items/dpde/content/vols/0012/0004/a002/",
+    "pdfs": [
+      {
+        "filename": "X_SS-Euler.pdf",
+        "original": "http://math0.bnu.edu.cn/~xuelt/X_SS-Euler.pdf",
+        "remote": "https://pan.baidu.com/s/18JxnELIkrqUuH9wavvF_Ng?pwd=dt3i",
+        "local": "papers/X_SS-Euler.pdf"
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "authors": "Liutang Xue",
+    "title": "On the discretely self-similar solutions for the 3D Navier-Stokes equations.",
+    "journal": "Nonlinearity 28 (2015), no. 10, 3695–3708.",
+    "arxiv": [],
+    "journal_url": "http://iopscience.iop.org/article/10.1088/0951-7715/28/10/3695/meta",
+    "pdfs": [
+      {
+        "filename": "X_DSS-NS.pdf",
+        "original": "http://math0.bnu.edu.cn/~xuelt/X_DSS-NS.pdf",
+        "remote": "https://pan.baidu.com/s/17nqkRjQe7BqgfI77PhQMWw?pwd=snm7",
+        "local": "papers/X_DSS-NS.pdf"
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "authors": "Marco Cannone, and Liutang Xue",
+    "title": "Remarks on self-similar solutions for the surface quasi-geostrophic equation and its generalization.",
+    "journal": "Proc. Amer. Math. Soc. 143 (2015), no. 6, 2613–2622.",
+    "arxiv": [],
+    "journal_url": "http://www.ams.org/journals/proc/2015-143-06/S0002-9939-2015-12468-9/",
+    "pdfs": [
+      {
+        "filename": "CX_SS-SQG.pdf",
+        "original": "http://math0.bnu.edu.cn/~xuelt/CX_SS-SQG.pdf",
+        "remote": "https://pan.baidu.com/s/1Cer668tftMFdHnkpTs4DuQ?pwd=2gmk",
+        "local": "papers/CX_SS-SQG.pdf"
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "authors": "Dong Li, Changxing Miao, and Liutang Xue",
+    "title": "On the well-posedness of a 2D nonlinear and nonlocal system arising from the dislocation dynamics.",
+    "journal": "Commun. Contemp. Math. 16 (2014), no. 2, 1350021, 36 pp.",
+    "arxiv": [],
+    "journal_url": "http://www.worldscientific.com/doi/abs/10.1142/S0219199713500211",
+    "pdfs": [
+      {
+        "filename": "LMX_dislocation.pdf",
+        "original": "http://math0.bnu.edu.cn/~xuelt/LMX_dislocation.pdf",
+        "remote": "https://pan.baidu.com/s/1r9yF-NypBZNf9jleDzsgtQ?pwd=g1bx",
+        "local": "papers/LMX_dislocation.pdf"
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "authors": "Xiaojing Xu, and Liutang Xue",
+    "title": "Yudovich type solution for the 2D inviscid Boussinesq system with critical and supercritical dissipation.",
+    "journal": "J. Differential Equations 256 (2014), no. 9, 3179–3207.",
+    "arxiv": [],
+    "journal_url": "http://www.sciencedirect.com/science/article/pii/S0022039614000631",
+    "pdfs": [
+      {
+        "filename": "XX_Yud-Bouss.pdf",
+        "original": "http://math0.bnu.edu.cn/~xuelt/XX_Yud-Bouss.pdf",
+        "remote": "https://pan.baidu.com/s/1kYrkCKkANGqWISPSL3Uoag?pwd=7pkz",
+        "local": "papers/XX_Yud-Bouss.pdf"
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "authors": "Marco Cannone, Changxing Miao, and Liutang Xue",
+    "title": "Global regularity for the supercritical dissipative quasi-geostrophic equation with large dispersive forcing.",
+    "journal": "Proc. Lond. Math. Soc. (3) 106 (2013), no. 3, 650–674.",
+    "arxiv": [],
+    "journal_url": "http://plms.oxfordjournals.org/content/106/3/650",
+    "pdfs": [
+      {
+        "filename": "CMX_dispSQG.pdf",
+        "original": "http://math0.bnu.edu.cn/~xuelt/CMX_dispSQG.pdf",
+        "remote": "https://pan.baidu.com/s/1nUOvEQIPsdrry_uZJEKYhA?pwd=kctx",
+        "local": "papers/CMX_dispSQG.pdf"
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "authors": "Liutang Xue, and Xiaoxin Zheng",
+    "title": "Note on the well-posedness of a slightly supercritical surface quasi-geostrophic equation.",
+    "journal": "J. Differential Equations 253 (2012), no. 2, 795–813.",
+    "arxiv": [],
+    "journal_url": "http://www.sciencedirect.com/science/article/pii/S0022039612001532",
+    "pdfs": [
+      {
+        "filename": "XZ_SupC-SQG.pdf",
+        "original": "http://math0.bnu.edu.cn/~xuelt/XZ_SupC-SQG.pdf",
+        "remote": "https://pan.baidu.com/s/1Z9PPmGbYCHO4htljqCSL5g?pwd=artj",
+        "local": "papers/XZ_SupC-SQG.pdf"
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "authors": "Gang Wu, and Liutang Xue",
+    "title": "Global well-posedness for the 2D inviscid Bénard system with fractional diffusivity and Yudovich's type data.",
+    "journal": "J. Differential Equations 253 (2012), no. 1, 100–125.",
+    "arxiv": [],
+    "journal_url": "http://www.sciencedirect.com/science/article/pii/S0022039612001118",
+    "pdfs": [
+      {
+        "filename": "WX_Benard.pdf",
+        "original": "http://math0.bnu.edu.cn/~xuelt/WX_Benard.pdf",
+        "remote": "https://pan.baidu.com/s/1CH3IGsSlYgY-zxHbG6sM_g?pwd=dj8u",
+        "local": "papers/WX_Benard.pdf"
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "authors": "Changxing Miao, and Liutang Xue",
+    "title": "Global well-posedness for a modified critical dissipative quasi-geostrophic equation.",
+    "journal": "J. Differential Equations 252 (2012), no. 1, 792–818.",
+    "arxiv": [],
+    "journal_url": "http://www.sciencedirect.com/science/article/pii/S0022039611003329",
+    "pdfs": [
+      {
+        "filename": "MX_modSQG.pdf",
+        "original": "http://math0.bnu.edu.cn/~xuelt/MX_modSQG.pdf",
+        "remote": "https://pan.baidu.com/s/1av-ujvqVW6XEU0vOaSv_tg?pwd=rt3q",
+        "local": "papers/MX_modSQG.pdf"
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "authors": "Changxing Miao, and Liutang Xue",
+    "title": "On the regularity of a class of generalized quasi-geostrophic equations.",
+    "journal": "J. Differential Equations 251 (2011), no. 10, 2789–2821.",
+    "arxiv": [],
+    "journal_url": "http://www.sciencedirect.com/science/article/pii/S0022039611001616",
+    "pdfs": [
+      {
+        "filename": "MX_gSQG.pdf",
+        "original": "http://math0.bnu.edu.cn/~xuelt/MX_gSQG.pdf",
+        "remote": "https://pan.baidu.com/s/1qcEjedo42M4v3RJjZIdXcw?pwd=5x7d",
+        "local": "papers/MX_gSQG.pdf"
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "authors": "Changxing Miao, and Liutang Xue",
+    "title": "On the global well-posedness of a class of Boussinesq-Navier-Stokes systems.",
+    "journal": "NoDEA Nonlinear Differential Equations Appl. 18 (2011), no. 6, 707–735.",
+    "arxiv": [],
+    "journal_url": "http://link.springer.com/article/10.1007%2Fs00030-011-0114-5",
+    "pdfs": [
+      {
+        "filename": "MX_BoussNS.pdf",
+        "original": "http://math0.bnu.edu.cn/~xuelt/MX_BoussNS.pdf",
+        "remote": "https://pan.baidu.com/s/1EDMc6KPTTxVK9krIjiENZA?pwd=nynd",
+        "local": "papers/MX_BoussNS.pdf"
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "authors": "Liutang Xue",
+    "title": "Wellposedness and zero microrotation viscosity limit of the 2D micropolar fluid equations.",
+    "journal": "Math. Methods Appl. Sci. 34 (2011), no. 14, 1760–1777.",
+    "arxiv": [],
+    "journal_url": "http://onlinelibrary.wiley.com/wol1/doi/10.1002/mma.1491/abstract",
+    "pdfs": [
+      {
+        "filename": "X_micropolar.pdf",
+        "original": "http://math0.bnu.edu.cn/~xuelt/X_micropolar.pdf",
+        "remote": "https://pan.baidu.com/s/1CSN-Z4TdTeLxofuDSdBu8Q?pwd=taj9",
+        "local": "papers/X_micropolar.pdf"
+      }
+    ]
+  },
+  {
+    "number": 1,
+    "authors": "Liutang Xue",
+    "title": "On the well-posedness of incompressible flow in porous media with supercritical diffusion.",
+    "journal": "Appl. Anal. 88 (2009), no. 4, 547–561.",
+    "arxiv": [],
+    "journal_url": "https://www.tandfonline.com/doi/abs/10.1080/00036810902913821",
+    "pdfs": [
+      {
+        "filename": "Xue_pm.pdf",
+        "original": "http://math0.bnu.edu.cn/~xuelt/Xue_pm.pdf",
+        "remote": "https://pan.baidu.com/s/135DjzOHuAkzJFn6ao1ti3w?pwd=p4d3",
+        "local": "papers/Xue_pm.pdf"
+      }
+    ]
+  }
+]
