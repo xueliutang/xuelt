@@ -1,0 +1,1 @@
+Upload PDFs using the original filenames listed in FILES_TO_UPLOAD.csv. The PDF links will automatically prefer local files on GitHub Pages. Until then, arXiv or the existing BNU-linked Baidu shares are used.
