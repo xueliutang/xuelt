@@ -9,27 +9,28 @@
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2064%2064%22%3E%3Crect%20width%3D%2264%22%20height%3D%2264%22%20rx%3D%2212%22%20fill%3D%22%231e4662%22/%3E%3Ctext%20x%3D%2232%22%20y%3D%2243%22%20text-anchor%3D%22middle%22%20font-family%3D%22Georgia%2Cserif%22%20font-size%3D%2235%22%20fill%3D%22white%22%3ELX%3C/text%3E%3C/svg%3E">
 <link rel="stylesheet" href="assets/style.css">
 <style id="compact-publications">
-/* Page-specific spacing. The shared site stylesheet remains unchanged. */
+/* Shared publication layout, embedded so only these two HTML files need replacing. */
 #main > h1 { margin-bottom: 16px; }
 #main > .page-intro { margin-bottom: 22px; }
-.full-papers .paper { padding: 0 0 12px 36px; margin-bottom: 12px; }
-.full-papers .paper-title { font-size: 17px; line-height: 1.4; margin: 0 0 3px; }
-.full-papers .paper-authors { font-size: 14.5px; line-height: 1.5; margin: 0 0 2px; }
-.full-papers .paper-journal { display: inline; font-size: 14.5px; line-height: 1.5; margin: 0; }
-.full-papers .paper-links { display: inline-flex; flex-wrap: wrap; align-items: baseline; gap: 8px; font-size: 13.5px; line-height: 1.5; margin: 0 0 0 10px; }
-.full-papers .paper-links a { white-space: nowrap; }
-.full-papers .paper::before { top: 0; line-height: 1.7; }
-.full-papers .paper:last-child { margin-bottom: 0; }
+.papers .paper { padding: 0 0 10px 36px; margin-bottom: 10px; }
+.papers .paper-title { font-size: 17px; line-height: 1.4; margin: 0 0 3px; }
+.papers .paper-authors { font-size: 14.5px; line-height: 1.5; margin: 0 0 2px; }
+.papers .paper-journal { display: inline; font-size: 14.5px; line-height: 1.5; margin: 0; }
+.papers .paper-links { display: inline-flex; flex-wrap: wrap; align-items: baseline; gap: 8px; font-size: 13.5px; line-height: 1.5; margin: 0 0 0 10px; }
+.papers .paper-links a { white-space: nowrap; }
+.papers .paper::before { top: 0; line-height: 1.7; }
+.papers .paper:last-child { margin-bottom: 0; }
+.recent-papers .paper:last-child { padding-bottom: 0; border: 0; }
 @media (max-width: 650px) {
-  .full-papers .paper { padding-left: 31px; }
-  .full-papers .paper-title { font-size: 16px; }
-  .full-papers .paper-authors, .full-papers .paper-journal { font-size: 14px; }
-  .full-papers .paper-links { font-size: 13px; }
+  .papers .paper { padding-left: 31px; }
+  .papers .paper-title { font-size: 16px; }
+  .papers .paper-authors, .papers .paper-journal { font-size: 14px; }
+  .papers .paper-links { font-size: 13px; }
 }
 @media print {
-  .full-papers .paper { padding-bottom: 8px; margin-bottom: 8px; }
-  .full-papers .paper-title { font-size: 11pt; }
-  .full-papers .paper-authors, .full-papers .paper-journal, .full-papers .paper-links { font-size: 10pt; }
+  .papers .paper { padding-bottom: 8px; margin-bottom: 8px; }
+  .papers .paper-title { font-size: 11pt; }
+  .papers .paper-authors, .papers .paper-journal, .papers .paper-links { font-size: 10pt; }
 }
 </style></head>
 <body>
@@ -45,11 +46,11 @@
 <p class="position">Professor of Mathematics</p>
 <p class="affiliation"><a href="https://math.bnu.edu.cn/">School of Mathematical Sciences</a><br><a href="https://www.bnu.edu.cn/">Beijing Normal University</a></p>
 <ul class="profile-links">
-<li><svg class="icon" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 1 1 16 0Z"></path><circle cx="12" cy="10" r="2.5"></circle></svg><span>Beijing, P.R. China</span></li>
-<li><svg class="icon" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M4 21V3h12v18M2 21h20M16 10h4v11M8 7h4M8 11h4M8 15h4"></path></svg><span>New Main Building 1131</span></li>
-<li><svg class="icon" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="1"></rect><path d="m3 6 9 7 9-7"></path></svg><a href="mailto:xuelt@bnu.edu.cn">xuelt@bnu.edu.cn</a></li>
-<li><svg class="icon" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M4 4h6a3 3 0 0 1 3 3v14a4 4 0 0 0-4-2H4Zm16 0h-4a3 3 0 0 0-3 3v14a4 4 0 0 1 4-2h3Z"></path></svg><a href="https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=854383">MathSciNet</a></li>
-<li><svg class="icon" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M6 3h8l5 5v13H6Z M14 3v6h5M9 13h7M9 17h7"></path></svg><a href="CV.html">Curriculum Vitae</a></li>
+<li><svg class="icon" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true" viewBox="0 0 24 24"><path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 1 1 16 0Z"></path><circle cx="12" cy="10" r="2.5"></circle></svg><span>Beijing, P.R. China</span></li>
+<li><svg class="icon" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true" viewBox="0 0 24 24"><path d="M4 21V3h12v18M2 21h20M16 10h4v11M8 7h4M8 11h4M8 15h4"></path></svg><span>New Main Building 1131</span></li>
+<li><svg class="icon" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="1"></rect><path d="m3 6 9 7 9-7"></path></svg><a href="mailto:xuelt@bnu.edu.cn">xuelt@bnu.edu.cn</a></li>
+<li><svg class="icon" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true" viewBox="0 0 24 24"><path d="M4 4h6a3 3 0 0 1 3 3v14a4 4 0 0 0-4-2H4Zm16 0h-4a3 3 0 0 0-3 3v14a4 4 0 0 1 4-2h3Z"></path></svg><a href="https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=854383">MathSciNet</a></li>
+<li><svg class="icon" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true" viewBox="0 0 24 24"><path d="M6 3h8l5 5v13H6Z M14 3v6h5M9 13h7M9 17h7"></path></svg><a href="files/xue_cv.pdf" target="_blank" rel="noopener" aria-label="Curriculum Vitae (PDF)">Curriculum Vitae</a></li>
 </ul></div>
 </aside>
 <main id="main" tabindex="-1"><h1>Publications and preprints</h1><p class="page-intro">My publications are also listed on <a href="https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=854383">MathSciNet</a> and the <a href="https://math.bnu.edu.cn/jzg/szdw/xy/715f042432404a1d8bb5d728465e90d0.htm">BNU faculty page</a>.</p><ol class="papers full-papers" reversed start="36"><li class="paper" value="36" id="paper-36">
@@ -72,12 +73,12 @@
 <h3 class="paper-title">Doubly connected V-states in geophysical models: a general framework</h3>
 <p class="paper-authors">Taoufik Hmidi, <strong>Liutang Xue</strong>, and Zhilong Xue.</p>
 <p class="paper-journal">Calc. Var. Partial Differential Equations, 65 (2026), Art. No. 137.</p>
-<!-- PDF not uploaded: papers/HXX-doubVstates.pdf --><p class="paper-links"><a href="https://arxiv.org/abs/2504.08143">arXiv</a> <span aria-hidden="true">/</span> <a href="https://link.springer.com/article/10.1007/s00526-026-03295-4">Journal</a> </p>
+<p class="paper-links"><a class="file-link" href="papers/HXX-doubVstates.pdf" target="_blank" rel="noopener" aria-label="PDF: Doubly connected V-states in geophysical models: a general framework">PDF</a> <span aria-hidden="true">/</span> <a href="https://arxiv.org/abs/2504.08143">arXiv</a> <span aria-hidden="true">/</span> <a href="https://link.springer.com/article/10.1007/s00526-026-03295-4">Journal</a> </p>
 </li><li class="paper" value="32" id="paper-32">
 <h3 class="paper-title">Unified theory on V-states structures for active scalar equations</h3>
 <p class="paper-authors">Taoufik Hmidi, <strong>Liutang Xue</strong>, and Zhilong Xue.</p>
 <p class="paper-journal">Adv. Math., 486 (2026), Art. No. 110750.</p>
-<!-- PDF not uploaded: papers/HXX-Vstate-gene.pdf --><p class="paper-links"><a href="https://arxiv.org/abs/2312.02874">arXiv</a> <span aria-hidden="true">/</span> <a href="https://www.sciencedirect.com/science/article/pii/S0001870825006486">Journal</a> </p>
+<p class="paper-links"><a class="file-link" href="papers/HXX-Vstate-gene.pdf" target="_blank" rel="noopener" aria-label="PDF: Unified theory on V-states structures for active scalar equations">PDF</a> <span aria-hidden="true">/</span> <a href="https://arxiv.org/abs/2312.02874">arXiv</a> <span aria-hidden="true">/</span> <a href="https://www.sciencedirect.com/science/article/pii/S0001870825006486">Journal</a> </p>
 </li><li class="paper" value="31" id="paper-31">
 <h3 class="paper-title">Global regularity and infinite Prandtl number limit of temperature patches for the 2D Boussinesq system</h3>
 <p class="paper-authors">Omar Lazar, <strong>Liutang Xue</strong>, and Jiakun Yang.</p>
@@ -162,22 +163,22 @@
 <h3 class="paper-title">Regularity results for the 2D Boussinesq equations with critical or supercritical dissipation</h3>
 <p class="paper-authors">Jiahong Wu, Xiaojing Xu, <strong>Liutang Xue</strong>, and Zhuan Ye.</p>
 <p class="paper-journal">Commun. Math. Sci. 14 (2016), no. 7, 1963–1997.</p>
-<!-- PDF not uploaded: papers/WXXY_Bouss.pdf --><p class="paper-links"><a href="https://www.intlpress.com/site/pub/pages/journals/items/cms/content/vols/0014/0007/a009/index.php">Journal</a> </p>
+<p class="paper-links"><a class="file-link" href="papers/WXXY_Bouss.pdf" target="_blank" rel="noopener" aria-label="PDF: Regularity results for the 2D Boussinesq equations with critical or supercritical dissipation">PDF</a> <span aria-hidden="true">/</span> <a href="https://www.intlpress.com/site/pub/pages/journals/items/cms/content/vols/0014/0007/a009/index.php">Journal</a> </p>
 </li><li class="paper" value="14" id="paper-14">
 <h3 class="paper-title">On the locally self-similar solution of the surface quasi-geostrophic equation with decaying or non-decaying profiles</h3>
 <p class="paper-authors"><strong>Liutang Xue</strong>.</p>
 <p class="paper-journal">J. Differential Equations 261 (2016), no. 10, 5590–5608.</p>
-<!-- PDF not uploaded: papers/X_SS-SQG.pdf --><p class="paper-links"><a href="http://www.sciencedirect.com/science/article/pii/S0022039616302170">Journal</a> </p>
+<p class="paper-links"><a class="file-link" href="papers/X_SS-SQG.pdf" target="_blank" rel="noopener" aria-label="PDF: On the locally self-similar solution of the surface quasi-geostrophic equation with decaying or non-decaying profiles">PDF</a> <span aria-hidden="true">/</span> <a href="http://www.sciencedirect.com/science/article/pii/S0022039616302170">Journal</a> </p>
 </li><li class="paper" value="13" id="paper-13">
 <h3 class="paper-title">On the locally self-similar singular solutions for the incompressible Euler equations</h3>
 <p class="paper-authors"><strong>Liutang Xue</strong>.</p>
 <p class="paper-journal">Dyn. Partial Differ. Equ. 12 (2015), no. 4, 321–342.</p>
-<!-- PDF not uploaded: papers/X_SS-Euler.pdf --><p class="paper-links"><a href="http://www.intlpress.com/site/pub/pages/journals/items/dpde/content/vols/0012/0004/a002/">Journal</a> </p>
+<p class="paper-links"><a class="file-link" href="papers/X_SS-Euler.pdf" target="_blank" rel="noopener" aria-label="PDF: On the locally self-similar singular solutions for the incompressible Euler equations">PDF</a> <span aria-hidden="true">/</span> <a href="http://www.intlpress.com/site/pub/pages/journals/items/dpde/content/vols/0012/0004/a002/">Journal</a> </p>
 </li><li class="paper" value="12" id="paper-12">
 <h3 class="paper-title">On the discretely self-similar solutions for the 3D Navier-Stokes equations</h3>
 <p class="paper-authors"><strong>Liutang Xue</strong>.</p>
 <p class="paper-journal">Nonlinearity 28 (2015), no. 10, 3695–3708.</p>
-<!-- PDF not uploaded: papers/X_DSS-NS.pdf --><p class="paper-links"><a href="http://iopscience.iop.org/article/10.1088/0951-7715/28/10/3695/meta">Journal</a> </p>
+<p class="paper-links"><a class="file-link" href="papers/X_DSS-NS.pdf" target="_blank" rel="noopener" aria-label="PDF: On the discretely self-similar solutions for the 3D Navier-Stokes equations">PDF</a> <span aria-hidden="true">/</span> <a href="http://iopscience.iop.org/article/10.1088/0951-7715/28/10/3695/meta">Journal</a> </p>
 </li><li class="paper" value="11" id="paper-11">
 <h3 class="paper-title">Remarks on self-similar solutions for the surface quasi-geostrophic equation and its generalization</h3>
 <p class="paper-authors">Marco Cannone, and <strong>Liutang Xue</strong>.</p>
@@ -187,32 +188,32 @@
 <h3 class="paper-title">On the well-posedness of a 2D nonlinear and nonlocal system arising from the dislocation dynamics</h3>
 <p class="paper-authors">Dong Li, Changxing Miao, and <strong>Liutang Xue</strong>.</p>
 <p class="paper-journal">Commun. Contemp. Math. 16 (2014), no. 2, 1350021, 36 pp.</p>
-<!-- PDF not uploaded: papers/LMX_dislocation.pdf --><p class="paper-links"><a href="http://www.worldscientific.com/doi/abs/10.1142/S0219199713500211">Journal</a> </p>
+<p class="paper-links"><a class="file-link" href="papers/LMX_dislocation.pdf" target="_blank" rel="noopener" aria-label="PDF: On the well-posedness of a 2D nonlinear and nonlocal system arising from the dislocation dynamics">PDF</a> <span aria-hidden="true">/</span> <a href="http://www.worldscientific.com/doi/abs/10.1142/S0219199713500211">Journal</a> </p>
 </li><li class="paper" value="9" id="paper-9">
 <h3 class="paper-title">Yudovich type solution for the 2D inviscid Boussinesq system with critical and supercritical dissipation</h3>
 <p class="paper-authors">Xiaojing Xu, and <strong>Liutang Xue</strong>.</p>
 <p class="paper-journal">J. Differential Equations 256 (2014), no. 9, 3179–3207.</p>
-<!-- PDF not uploaded: papers/XX_Yud-Bouss.pdf --><p class="paper-links"><a href="http://www.sciencedirect.com/science/article/pii/S0022039614000631">Journal</a> </p>
+<p class="paper-links"><a class="file-link" href="papers/XX_Yud-Bouss.pdf" target="_blank" rel="noopener" aria-label="PDF: Yudovich type solution for the 2D inviscid Boussinesq system with critical and supercritical dissipation">PDF</a> <span aria-hidden="true">/</span> <a href="http://www.sciencedirect.com/science/article/pii/S0022039614000631">Journal</a> </p>
 </li><li class="paper" value="8" id="paper-8">
 <h3 class="paper-title">Global regularity for the supercritical dissipative quasi-geostrophic equation with large dispersive forcing</h3>
 <p class="paper-authors">Marco Cannone, Changxing Miao, and <strong>Liutang Xue</strong>.</p>
 <p class="paper-journal">Proc. Lond. Math. Soc. (3) 106 (2013), no. 3, 650–674.</p>
-<!-- PDF not uploaded: papers/CMX_dispSQG.pdf --><p class="paper-links"><a href="http://plms.oxfordjournals.org/content/106/3/650">Journal</a> </p>
+<p class="paper-links"><a class="file-link" href="papers/CMX_dispSQG.pdf" target="_blank" rel="noopener" aria-label="PDF: Global regularity for the supercritical dissipative quasi-geostrophic equation with large dispersive forcing">PDF</a> <span aria-hidden="true">/</span> <a href="http://plms.oxfordjournals.org/content/106/3/650">Journal</a> </p>
 </li><li class="paper" value="7" id="paper-7">
 <h3 class="paper-title">Note on the well-posedness of a slightly supercritical surface quasi-geostrophic equation</h3>
 <p class="paper-authors"><strong>Liutang Xue</strong>, and Xiaoxin Zheng.</p>
 <p class="paper-journal">J. Differential Equations 253 (2012), no. 2, 795–813.</p>
-<!-- PDF not uploaded: papers/XZ_SupC-SQG.pdf --><p class="paper-links"><a href="http://www.sciencedirect.com/science/article/pii/S0022039612001532">Journal</a> </p>
+<p class="paper-links"><a class="file-link" href="papers/XZ_SupC-SQG.pdf" target="_blank" rel="noopener" aria-label="PDF: Note on the well-posedness of a slightly supercritical surface quasi-geostrophic equation">PDF</a> <span aria-hidden="true">/</span> <a href="http://www.sciencedirect.com/science/article/pii/S0022039612001532">Journal</a> </p>
 </li><li class="paper" value="6" id="paper-6">
 <h3 class="paper-title">Global well-posedness for the 2D inviscid Bénard system with fractional diffusivity and Yudovich's type data</h3>
 <p class="paper-authors">Gang Wu, and <strong>Liutang Xue</strong>.</p>
 <p class="paper-journal">J. Differential Equations 253 (2012), no. 1, 100–125.</p>
-<!-- PDF not uploaded: papers/WX_Benard.pdf --><p class="paper-links"><a href="http://www.sciencedirect.com/science/article/pii/S0022039612001118">Journal</a> </p>
+<p class="paper-links"><a class="file-link" href="papers/WX_Benard.pdf" target="_blank" rel="noopener" aria-label="PDF: Global well-posedness for the 2D inviscid Bénard system with fractional diffusivity and Yudovich's type data">PDF</a> <span aria-hidden="true">/</span> <a href="http://www.sciencedirect.com/science/article/pii/S0022039612001118">Journal</a> </p>
 </li><li class="paper" value="5" id="paper-5">
 <h3 class="paper-title">Global well-posedness for a modified critical dissipative quasi-geostrophic equation</h3>
 <p class="paper-authors">Changxing Miao, and <strong>Liutang Xue</strong>.</p>
 <p class="paper-journal">J. Differential Equations 252 (2012), no. 1, 792–818.</p>
-<!-- PDF not uploaded: papers/MX_modSQG.pdf --><p class="paper-links"><a href="http://www.sciencedirect.com/science/article/pii/S0022039611003329">Journal</a> </p>
+<p class="paper-links"><a class="file-link" href="papers/MX_modSQG.pdf" target="_blank" rel="noopener" aria-label="PDF: Global well-posedness for a modified critical dissipative quasi-geostrophic equation">PDF</a> <span aria-hidden="true">/</span> <a href="http://www.sciencedirect.com/science/article/pii/S0022039611003329">Journal</a> </p>
 </li><li class="paper" value="4" id="paper-4">
 <h3 class="paper-title">On the regularity of a class of generalized quasi-geostrophic equations</h3>
 <p class="paper-authors">Changxing Miao, and <strong>Liutang Xue</strong>.</p>
@@ -222,12 +223,12 @@
 <h3 class="paper-title">On the global well-posedness of a class of Boussinesq-Navier-Stokes systems</h3>
 <p class="paper-authors">Changxing Miao, and <strong>Liutang Xue</strong>.</p>
 <p class="paper-journal">NoDEA Nonlinear Differential Equations Appl. 18 (2011), no. 6, 707–735.</p>
-<!-- PDF not uploaded: papers/MX_BoussNS.pdf --><p class="paper-links"><a href="http://link.springer.com/article/10.1007%2Fs00030-011-0114-5">Journal</a> </p>
+<p class="paper-links"><a class="file-link" href="papers/MX_BoussNS.pdf" target="_blank" rel="noopener" aria-label="PDF: On the global well-posedness of a class of Boussinesq-Navier-Stokes systems">PDF</a> <span aria-hidden="true">/</span> <a href="http://link.springer.com/article/10.1007%2Fs00030-011-0114-5">Journal</a> </p>
 </li><li class="paper" value="2" id="paper-2">
 <h3 class="paper-title">Wellposedness and zero microrotation viscosity limit of the 2D micropolar fluid equations</h3>
 <p class="paper-authors"><strong>Liutang Xue</strong>.</p>
 <p class="paper-journal">Math. Methods Appl. Sci. 34 (2011), no. 14, 1760–1777.</p>
-<!-- PDF not uploaded: papers/X_micropolar.pdf --><p class="paper-links"><a href="http://onlinelibrary.wiley.com/wol1/doi/10.1002/mma.1491/abstract">Journal</a> </p>
+<p class="paper-links"><a class="file-link" href="papers/X_micropolar.pdf" target="_blank" rel="noopener" aria-label="PDF: Wellposedness and zero microrotation viscosity limit of the 2D micropolar fluid equations">PDF</a> <span aria-hidden="true">/</span> <a href="http://onlinelibrary.wiley.com/wol1/doi/10.1002/mma.1491/abstract">Journal</a> </p>
 </li><li class="paper" value="1" id="paper-1">
 <h3 class="paper-title">On the well-posedness of incompressible flow in porous media with supercritical diffusion</h3>
 <p class="paper-authors"><strong>Liutang Xue</strong>.</p>
